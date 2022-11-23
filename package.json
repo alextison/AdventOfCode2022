@@ -1,0 +1,14 @@
+{
+  "name": "ts-project-skeleton",
+  "version": "1.0.0",
+  "description": "ts-project-skeleton",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Tison",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  }
+}
